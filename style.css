@@ -41,6 +41,7 @@ form button, form input{
 }
 form button{
    font-weight: bolder;
+   cursor: pointer;
 }
 
 table{
