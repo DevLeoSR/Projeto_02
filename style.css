@@ -39,6 +39,9 @@ form button, form input{
    border: 2px solid black;
    font-size: 16px;
 }
+form button{
+   font-weight: bolder;
+}
 
 table{
    width: 100%;
